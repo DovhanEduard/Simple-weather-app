@@ -9,6 +9,26 @@ body {
   margin: 0;
 }
 
+.sunny {
+  background: linear-gradient(to right, #fceabb, #f8b500);
+}
+
+.cloudy {
+  background: linear-gradient(to right, #bdc3c7, #2c3e50);
+}
+
+.rainy {
+  background: linear-gradient(to right, #4b79a1, #283e51);
+}
+
+.snowy {
+  background: linear-gradient(to right, #e6dada, #274046);
+}
+
+.misty {
+  background: linear-gradient(to right, #606c88, #3f4c6b);
+}
+
 .container {
   background: white;
   border-radius: 10px;
